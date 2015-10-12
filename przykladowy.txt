@@ -1,0 +1,3 @@
+przykladowy tekst
+
+dodaje kolejn¹ testow¹ linijkê tekstu.
