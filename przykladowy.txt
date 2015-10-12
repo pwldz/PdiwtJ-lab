@@ -1,3 +1,6 @@
 przykladowy tekst
 
 dodaje kolejn¹ testow¹ linijkê tekstu.
+
+
+Dodaje trzecia linijke tekstu tak tylko dla testu.
