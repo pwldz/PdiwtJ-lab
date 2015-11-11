@@ -4,3 +4,5 @@ dodaje kolejn¹ testow¹ linijkê tekstu.
 
 
 Dodaje trzecia linijke tekstu tak tylko dla testu.
+
+4 linijka dla branchu 'new'
